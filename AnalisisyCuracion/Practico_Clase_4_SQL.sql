@@ -27,12 +27,15 @@ from albums a,
 tracks t
 where a.albumid=t.albumid
 group by l.title
-having count(*) > 25  
+having count(*) > 25;
 
-#Canciones mas escuchadas
+/**********************************/
+/*Canciones mas escuchadas        */
+/**********************************/
+
 select p.playlistid,t.name,count(1) as cantidad 
 from playlists as p, playlist_track as pt,tracks t 
 where p.playlistid=pt.playlistid 
 and t.trackid=pt.trackid 
 group by p.playlistid,t.name 
-order by cantidad desc
+order by cantidad desc;
