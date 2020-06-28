@@ -6,9 +6,9 @@
 
 ### Ejecución del notebook
 
-Se puede ejecutar en [**Colab**](https://colab.research.google.com/github/dyvanoff/diplo-datos-ayvd-g3/blob/master/practico_analisisDatos.ipynb),
+Se puede ejecutar en [**Colab**](https://colab.research.google.com/github/dyvanoff/diplo-datos-ayvd-g3/blob/master/An_y_Vi_de_Datos/Practico_Analisis_de_Datos.ipynb),
 
-se puede descargar el `.ipynb` y ejecutarlo en un servidor personal, o se puede visualizar los resultados desde [GitHub](https://github.com/dyvanoff/diplo-datos-ayvd-g3/blob/master/Practico_Analisis_de_Datos.ipynb)
+o se puede descargar el `.ipynb` y ejecutarlo en un servidor personal.
 
 **Requerimientos** 
 
