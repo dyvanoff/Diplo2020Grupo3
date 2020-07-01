@@ -1,6 +1,5 @@
 # Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones - 2020
 
-## Análisis y Visualización de Datos
 
 ### Grupo 
 
