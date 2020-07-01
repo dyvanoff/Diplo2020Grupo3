@@ -4,6 +4,14 @@
 
 **Grupo N°3**
 
+### Integrantes
+- López Santiago
+- Masía Fernando
+- Echeverria Gustavo
+- Santucho Victoria
+- Gianuzzi Emmanuel
+- Yvanoff Dario
+
 ### Ejecución de notebooks
 
 #### Primeros_pasos
