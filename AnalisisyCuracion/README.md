@@ -38,6 +38,8 @@
 
 `seaborn`    >= 0.10.1
 
+`unidecode`  >= 1.1.1 (Primeros_pasos)
+
 `bs4`        >= 0.0.1 (RSS)
 
 `feedparser` >= 5.2.1 (RSS)
