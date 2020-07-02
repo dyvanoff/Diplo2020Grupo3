@@ -24,6 +24,12 @@
   Se puede ejecutar en [**Colab**](https://colab.research.google.com/github/dyvanoff/Diplo2020Grupo3/blob/master/AnalisisyCuracion/RSS.ipynb), o se puede descargar el `.ipynb` y ejecutarlo en un servidor personal.
 
 
+### SQL
+
+#### Practico_Clase_4_SQL.sql
+  Provee las respuestas a los problemas presentado en la clase 4 de la materia, a resolver en SQL.
+  Se puede descargar el scrip y ejecutar en un entorno SQL en un serividor personal.
+  
 #### **Requerimientos**
 
 `python`    >= 3.6
