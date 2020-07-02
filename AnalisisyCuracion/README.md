@@ -26,7 +26,7 @@
 
 ### SQL
 
-#### Practico_Clase_4_SQL.sql
+#### Practico_Clase_4_SQL
   Provee las respuestas a los problemas presentado en la clase 4 de la materia, a resolver en SQL.
   Se puede descargar el scrip y ejecutar en un entorno SQL en un serividor personal.
   
