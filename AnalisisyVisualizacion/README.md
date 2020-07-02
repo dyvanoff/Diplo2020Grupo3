@@ -4,9 +4,17 @@
 
 **Grupo N°3**
 
+### Integrantes
+- López Santiago
+- Masía Fernando
+- Echeverria Gustavo
+- Santucho Victoria
+- Gianuzzi Emmanuel
+- Yvanoff Dario
+
 ### Ejecución del notebook
 
-Se puede ejecutar en [**Colab**](https://colab.research.google.com/github/dyvanoff/diplo-datos-ayvd-g3/blob/master/An_y_Vi_de_Datos/Practico_Analisis_de_Datos.ipynb),
+Se puede ejecutar en [**Colab**](https://colab.research.google.com/github/dyvanoff/Diplo2020Grupo3/blob/master/AnalisisyVisualizacion/practico_analisisDatos.ipynb),
 
 o se puede descargar el `.ipynb` y ejecutarlo en un servidor personal.
 
