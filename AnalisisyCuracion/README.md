@@ -26,20 +26,21 @@
 
 #### **Requerimientos**
 
-python     >= 2.x
+`python`    >= 3.6
 
-numpy      >= 1.18.4
+`numpy`      >= 1.18.4
 
-matplotlib >= 3.2.1
+`matplotlib` >= 3.2.1
 
-pandas     >= 1.0.3
+`pandas`     >= 1.0.3
 
-scipy      >= 1.4.1
+`scipy`      >= 1.4.1
 
-feedparser >= 5.2.1 (RSS)
+`seaborn`    >= 0.10.1
 
-slugify    >= 0.0.1 (RSS)
+`bs4`        >= 0.0.1 (RSS)
 
-seaborn    >= 0.10.1
+`feedparser` >= 5.2.1 (RSS)
 
-bs4
+`slugify`    >= 0.0.1 (RSS)
+
