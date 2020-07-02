@@ -20,6 +20,10 @@
 #### Importando_los_datos
   Se puede ejecutar en [**Colab**](https://colab.research.google.com/github/dyvanoff/Diplo2020Grupo3/blob/master/AnalisisyCuracion/Grupo3_Primeros_pasos.ipynb), o se puede descargar el `.ipynb` y ejecutarlo en un servidor personal.
 
+#### RSS
+  Se puede ejecutar en [**Colab**](https://colab.research.google.com/github/dyvanoff/Diplo2020Grupo3/blob/master/AnalisisyCuracion/RSS.ipynb), o se puede descargar el `.ipynb` y ejecutarlo en un servidor personal.
+
+
 #### **Requerimientos**
 
 python     >= 2.x
@@ -32,4 +36,10 @@ pandas     >= 1.0.3
 
 scipy      >= 1.4.1
 
+feedparser >= 5.2.1 (RSS)
+
+slugify    >= 0.0.1 (RSS)
+
 seaborn    >= 0.10.1
+
+bs4
